@@ -8,11 +8,17 @@
   <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600&display=swap" rel="stylesheet">
 
   <!-- Linked separate style sheet for organization -->
-  <link rel="stylesheet" href="css\interactive-video.css">
+  <link rel="stylesheet" href="css/interactive-video.css">
 </head>
 
 <body>
   <div class="wrapper">
+
+    <div class="video-search">
+      <input id="videoSearch" type="text" placeholder="Search by date titles...">
+    </div>
+    
+    <div id="videoList"></div>
 
     <div class="label">Type your name here</div>
     <input id="mcName" type="text" value="MC">
@@ -44,93 +50,10 @@
   </div>
 
   <script src="https://www.youtube.com/iframe_api"></script>
-  <script>
-    let ytPlayer;
-    let subtitles = [];
-    let subsEnabled = true;
 
-    function onYouTubeIframeAPIReady() {
-      ytPlayer = new YT.Player('yt-frame', {
-        events: {
-          onReady: () => {
-            fetch('subs.srt')
-              .then(r => r.text())
-              .then(parseSRT)
-              .then(d => subtitles = d);
-          }
-        }
-      });
-
-      setInterval(updateSubs, 120);
-    }
-
-    function parseSRT(data) {
-      return data.replace(/\r/g,'')
-        .trim()
-        .split(/\n\n+/)
-        .map(b => {
-          const l = b.split('\n');
-          if(l.length < 2) return null;
-          const [s,e] = l[1].split(' --> ').map(toSec);
-          return {start:s, end:e, text:l.slice(2).join(' ')};
-        })
-        .filter(Boolean);
-    }
-
-    function toSec(t){
-      const [h, m, s] = t.replace(',','.').split(':');
-      return h*3600 + m*60 + parseFloat(s);
-    }
-
-    function updateSubs(){
-      const box = document.getElementById('subs');
-      const nameBox = document.getElementById('mc-name-box');
-
-      if(!ytPlayer?.getCurrentTime || !subsEnabled){
-        box.classList.add('hidden');
-        nameBox.classList.add('hidden');
-        return;
-      }
-
-      const t = ytPlayer.getCurrentTime();
-      const mcName = document.getElementById('mcName').value.trim() || 'MC';
-
-      const line = subtitles.find(s => t >= s.start && t <= s.end);
-      if(!line){
-        box.classList.add('hidden');
-        nameBox.classList.add('hidden');
-        return;
-      }
-
-      let rawText = line.text;
-
-      const hasSpeaker = /^[A-Za-z\u4e00-\u9fa5][A-Za-z\u4e00-\u9fa5 .]{0,15}[:：]\s/.test(rawText);
-      const isMC = rawText.startsWith('MC:') || rawText.startsWith('MC：');
-
-      let dialogue = rawText.replace(/^[^:：]+[:：]\s*/, '');
-      dialogue = dialogue.replace(/\bMC\b(?=[^\w]|$)/g, mcName);
-
-      box.textContent = dialogue;
-
-      box.classList.toggle('mc', isMC);
-      box.classList.toggle('spoken', hasSpeaker);
-      box.classList.remove('hidden');
-
-      if(isMC){
-        nameBox.textContent = mcName;
-        nameBox.classList.remove('hidden');
-      } else {
-        nameBox.classList.add('hidden');
-      }
-    }
-
-    document.getElementById('toggleCC').addEventListener('change', e => {
-      subsEnabled = e.target.checked;
-      if(!subsEnabled){
-        document.getElementById('subs').classList.add('hidden');
-        document.getElementById('mc-name-box').classList.add('hidden');
-      }
-    });
-  </script>
+  <script src="js/youtube-player.js"></script>
+  <script src="js/subtitles.js"></script>
+  <script src="js/video-loader.js"></script>
+  <script src="js/search-ui.js"></script>
 </body>
 </html>
