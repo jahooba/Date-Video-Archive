@@ -51,6 +51,9 @@ input[type="text"] {
   overflow:hidden;
   border-radius:10px;
 }
+#playerWrap.hidden {
+  display: none;
+}
 
 iframe {
   width:100%;
