@@ -1,0 +1,1435 @@
+1
+00:00:00,000 --> 00:00:02,235
+T/N: I think this date does a good job with world-building. I just want to add something mentioned in the PV song lyrics and other guys’ dates. There's this thing called Iris Device, which is a lens implanted in everyone’s eye at the age of seven.
+
+2
+00:00:02,235 --> 00:00:03,837
+It's directly linked to a multidimensional scoring system that monitors what you see and tracks your vitals as part of deciding your score. I guess it’s similar to those sci-fi contact lenses? Anyway, yea that’s all for now-
+
+3
+00:00:03,837 --> 00:00:07,908
+The sound of the prison gates slowly closing rings out from afar, shattering the silence of the space.
+
+4
+00:00:07,908 --> 00:00:12,480
+Almost simultaneously, my lens also flickers slightly.
+
+5
+00:00:12,480 --> 00:00:18,020
+I slow my steps, raise a hand, and tap the corner of my frame. In the next second, a fluorescent admin interface spreads out across the lens's view.
+
+6
+00:00:18,020 --> 00:00:22,158
+A very small prompt box appears at the top of the layered notification bar: "Execution in two hours."
+
+7
+00:00:22,158 --> 00:00:25,395
+I glance at the time and pick up my pace a little.
+
+8
+00:00:25,395 --> 00:00:31,068
+All criminals held in this prison must undergo bi-monthly systematic scoring to quantify the degree of ‘repentance’.
+
+9
+00:00:31,068 --> 00:00:36,808
+If their scores show no increase for three consecutive times, they are deemed ‘incorrigible’.
+
+10
+00:00:36,808 --> 00:00:43,315
+The prison will then administer punishment by erasing the criminal's key memories and reshaping a sound personality through visual education.
+
+11
+00:00:43,315 --> 00:00:47,787
+And as medical staff, carrying out this punishment is the core part of my work beyond daily treatments.
+
+12
+00:00:47,787 --> 00:00:54,962
+It's just that recently, the criminals have been relatively well-behaved, and for months, this is the first time I’ve received an execution notice.
+
+13
+00:00:54,962 --> 00:00:58,766
+I wonder what kind of heinous, unrepentant person I will deal with this time...
+
+14
+00:00:58,766 --> 00:01:02,671
+Thinking about the tedious procedures ahead, I can’t help but sigh softly and helplessly close the interface before me.
+
+15
+00:01:02,671 --> 00:01:07,776
+After clearing identity verification at the gate to the high-risk area, I continue down the corridor.
+
+16
+00:01:07,776 --> 00:01:12,348
+The faint sound of footsteps in the distance gradually grows clearer, mingled with the muffled scrape of chains dragging across the floor.
+
+17
+00:01:12,348 --> 00:01:16,353
+I lift my head absentmindedly, only for a familiar figure to suddenly come into view, catching me off guard.
+
+18
+00:01:16,353 --> 00:01:22,293
+....Lucien walks from the opposite direction under the watch of two guards, his hands bound in chains, hanging loosely in front of him.
+
+19
+00:01:22,293 --> 00:01:27,232
+His prison uniform seems ill-fitting, slipping off his shoulders as he moves, revealing his slender neck.
+
+20
+00:01:27,232 --> 00:01:32,504
+Yet the corners of his lips hold a hint of a relaxed smile, as if he is not heading toward the depths of the prison, but rather toward a sunlit garden.
+
+21
+00:01:32,504 --> 00:01:37,710
+On the contrary, the guards look tense as if facing a lethal enemy.
+
+22
+00:01:37,710 --> 00:01:45,319
+Upon seeing me, a glint of surprise seems to flash through those dark eyes. Lucien takes the initiative to stop walking, coming to a halt just an arm’s length away from me.
+
+23
+00:01:45,319 --> 00:01:51,693
+Lucien: At this hour, why isn't Miss Section Chief resting in the office area?
+
+24
+00:01:51,693 --> 00:01:57,466
+MC: Perhaps you should know better why you didn’t cherish your opportunities.
+
+25
+00:01:57,466 --> 00:02:02,806
+MC: Not only will you have your memories erased, but you’re also ‘dragging’ me into working overtime.
+
+26
+00:02:02,806 --> 00:02:06,944
+Lucien helplessly spreads out his hands, the restraints on his wrists glaringly conspicuous.
+
+27
+00:02:06,944 --> 00:02:10,681
+Lucien: I’m also very surprised about this.
+
+28
+00:02:10,681 --> 00:02:16,588
+Lucien: Clearly, I’ve been very well-behaved recently.
+
+29
+00:02:16,588 --> 00:02:21,994
+MC: The system doesn't misjudge. It seems like you're not only extremely bad, but you also lack self-awareness.
+
+30
+00:02:21,994 --> 00:02:28,668
+Probably sensing the absence of sympathy in my voice, Lucien lets out a sigh that seems tinged with regret.
+
+31
+00:02:28,668 --> 00:02:36,744
+The chains binding his wrists are suddenly pulled taut. I look up to see a guard beside him turning to address me.
+
+32
+00:02:36,744 --> 00:02:41,049
+Guard: Section Chief MC, please refrain from communicating with Number 0525.
+
+33
+00:02:41,049 --> 00:02:46,188
+Guard: Several managers who have been in contact with him have recently experienced a drop in their scores.
+
+34
+00:02:46,188 --> 00:02:50,893
+MC: Thank you, but my psyche has never been influenced by criminals.
+
+35
+00:02:50,893 --> 00:02:57,501
+MC: Otherwise, the warden wouldn’t have specifically assigned me to perform the execution.
+
+36
+00:02:57,501 --> 00:03:04,876
+My tone carries faint arrogance. The guard pauses briefly, his expression shifting almost imperceptibly before traces of respect surface.
+
+37
+00:03:04,876 --> 00:03:09,314
+Guard: ...As expected of the prison’s youngest medical section chief.
+
+38
+00:03:09,314 --> 00:03:14,353
+Guard: A criminal who is this dangerous still needs your direct intervention to command control.
+
+39
+00:03:14,353 --> 00:03:18,825
+MC: Aren't you going to escort Number 0525 back? You've already wasted quite a bit of time.
+
+40
+00:03:18,825 --> 00:03:23,664
+I ignore the gaze trailing me and speak up to remind them. The guards nod, turning to sternly urge Lucien.
+
+41
+00:03:23,664 --> 00:03:29,003
+He lowers his eyes obediently and moves at a leisurely pace. I also withdraw my gaze and continue walking toward the office area.
+
+42
+00:03:29,003 --> 00:03:37,113
+The metallic scrape of shackles intermingles with the click-clack staccato of high heels. In the fleeting moment we pass each other, the periphery of my vision suddenly plunges into shadow.
+
+43
+00:03:37,113 --> 00:03:44,120
+Lucien suddenly leans in close, his whisper—accompanied by the warmth of his breath— brushing just near yet distant against my ear.
+
+44
+00:03:44,120 --> 00:03:48,859
+Lucien: I've been waiting for this day for a long time.
+
+45
+00:03:48,859 --> 00:03:55,367
+Lucien: Let me see what you've learned in this place.
+
+46
+00:03:55,367 --> 00:03:57,235
+Guard: Number 0525!!
+
+47
+00:03:57,235 --> 00:04:03,776
+The chain around Lucien’s neck jerks taut. I take half a step back and coldly spit out a word.
+
+48
+00:04:03,776 --> 00:04:10,851
+MC: ...Lunatic.
+
+49
+00:04:11,051 --> 00:04:14,021
+(T/N: I find it neat that while Lucien affectionately calls her 小疯子 (xiǎo fēngzi – little lunatic) in Dawn Date (The Steadfast Soldier AU), here it’s her turn to call him 疯子 😆)
+
+50
+00:04:15,690 --> 00:04:21,663
+Countless streamers were projected across the azure sky, the melodious tune of the school anthem gradually fading as the flying media player departed.
+
+51
+00:04:21,663 --> 00:04:33,610
+From time to time, young men and women cheered as they tossed their graduation caps into the sky, adjusting their robots to capture this beautiful scene.
+
+52
+00:04:33,610 --> 00:04:42,553
+Although technology has undergone tremendous changes, the graduation ceremony at Mainland University still adheres to the old-time celebration traditions from a century ago.
+
+53
+00:04:42,553 --> 00:04:48,660
+I was gazing listlessly at the scene outside the window when I heard someone behind me speaking in a gentle voice.
+
+54
+00:04:48,660 --> 00:04:53,833
+Lucien: Who knows the next time when we'll meet again.
+
+55
+00:04:53,833 --> 00:05:00,107
+MC: Mentor, don’t say that. Even if work keeps me busy, I’ll still come back to visit you.
+
+56
+00:05:00,107 --> 00:05:07,782
+MC: If it weren't for your guidance these past few years, with my mental state, it would have been very difficult to maintain a stable high score of 85 in the system.
+
+57
+00:05:07,782 --> 00:05:17,994
+Lucien: I've also cherished these years of talking with you, MC. By the way, have you already decided on where you want to go after graduation?
+
+58
+00:05:17,994 --> 00:05:22,899
+A vague heaviness sank in my heart. I looked away from the window and, maintaining politeness, forced the corners of my mouth into a smile.
+
+59
+00:05:22,899 --> 00:05:27,071
+MC: The system recommended four or five places tailored to my score, I’ll just pick from those.
+
+60
+00:05:27,071 --> 00:05:32,677
+MC: After all, every employer needs to check the score. There’s hardly any room for freedom to choose, is there?
+
+61
+00:05:32,677 --> 00:05:37,416
+A cup of hot tea was slid before me, its rising, swirling steam blurring his gaze from view.
+
+62
+00:05:37,416 --> 00:05:42,955
+Lucien: But I think you don't necessarily have to heed its suggestions.
+
+63
+00:05:42,955 --> 00:05:47,961
+I was taken aback, looking at this renowned instructor somewhat incredulously.
+
+64
+00:05:47,961 --> 00:05:53,934
+…For as long as I can remember, the system has been the most important part of the societal evaluation framework.
+
+65
+00:05:53,934 --> 00:05:59,841
+Everyone begins receiving scores starting at the age of seven. Choosing a major, a job, even a spouse… every major life decision must be made with reference to one’s score.
+
+66
+00:05:59,841 --> 00:06:05,014
+Those who achieve high scores naturally enjoy greater access to societal resources, while even the freedoms low scorers possess are constrained.
+
+67
+00:06:05,014 --> 00:06:11,054
+Individuals like Lucien, whose scores place them at the pinnacle of the social pyramid, can easily attain everything they desire… whether wealth or the golden ticket into the ruling class.
+
+68
+00:06:11,054 --> 00:06:16,427
+Wouldn't someone with such vested interests be even more inclined to uphold the system's judgments? Then why would he say something like that?
+
+69
+00:06:16,427 --> 00:06:20,832
+MC: ...Mentor, what do you mean?
+
+70
+00:06:20,832 --> 00:06:28,006
+Lucien: The work one pursues should be considered from many dimensions, including interests, development, and many more.
+
+71
+00:06:28,006 --> 00:06:34,247
+Lucien: Score is merely a number, not the sole decision criterion.
+
+72
+00:06:34,247 --> 00:06:39,553
+My actions faltered briefly as I let out a soft "Hm?"
+
+73
+00:06:39,553 --> 00:06:44,992
+MC: But can human judgment truly be more scientific than the system?
+
+74
+00:06:44,992 --> 00:06:51,300
+MC: It was only after the multidimensional scoring system was born that society achieved the most efficient resource allocation mechanism.
+
+75
+00:06:51,300 --> 00:06:56,906
+MC: Moreover, the Mainland’s average annual economic growth rate increased by 9.8 percentage points compared to before the system's implementation, and even the crime rate...
+
+76
+00:06:56,906 --> 00:07:01,444
+My fluent recitation stumbled mid-sentence as I met his smiling gaze.
+
+77
+00:07:01,444 --> 00:07:04,815
+Lucien: So MC has always been this knowledgeable about the system.
+
+78
+00:07:04,815 --> 00:07:11,222
+Lucien: It was a mistake on its part not to assign you to the system operation and maintenance major.
+
+79
+00:07:11,222 --> 00:07:16,328
+MC: …It’s almost impossible to forget this kind of information that’s been pushed at us since childhood.
+
+80
+00:07:16,328 --> 00:07:21,834
+I muttered in a low voice, then belatedly pressed my lips into a tight line as I glanced at him tentatively.
+
+81
+00:07:21,834 --> 00:07:30,244
+Outside the window, the melody of the school anthem became clear once more alongside the hum of flying machines. Lucien quietly looked at me, a subtle curve suddenly appearing at the corner of his lips.
+
+82
+00:07:30,244 --> 00:07:35,516
+Lucien: Actually, I only need you to answer one question.
+
+83
+00:07:35,516 --> 00:07:41,723
+Lucien: MC, do you truly place unwavering faith in the system's judgment?
+
+84
+00:07:43,025 --> 00:07:47,397
+System: “Drug formulation has been completed.”
+
+85
+00:07:47,397 --> 00:07:52,636
+An eye-catching prompt box suddenly popped up from the lower-right corner of the lens interface, flashing rhythmically.
+
+86
+00:07:52,636 --> 00:07:58,142
+MC: Mentor Xu…
+
+87
+00:07:58,142 --> 00:08:03,348
+I pick up the drug solution from the pharmacy bench, murmuring softly.
+
+88
+00:08:03,348 --> 00:08:09,655
+The memory from the graduation ceremony is still vivid, but the person who spoke with measured grace across from me that day has now become a criminal.
+
+89
+00:08:09,655 --> 00:08:15,161
+After that consultation, I still chose the prison among the job placements recommended by the system.
+
+90
+00:08:15,161 --> 00:08:21,001
+I never expected that not long after, I’d abruptly see one breaking news story after another about Lucien.
+
+91
+00:08:21,001 --> 00:08:27,275
+His photos dominate the pages of countless media outlets, and the headlines incite an even greater public outcry.
+
+92
+00:08:27,275 --> 00:08:31,513
+”Renowned Psychologist Suspected of Interfering with System Standards”—this incident has stirred a massive uproar.
+
+93
+00:08:31,513 --> 00:08:37,887
+The scoring time for that month was even postponed by a week to conduct an item-by-item audit and recalibration of entries he had handled.
+
+94
+00:08:37,887 --> 00:08:42,526
+Everyone who had close contact with him, including me, was urgently interrogated and retested.
+
+95
+00:08:42,526 --> 00:08:47,765
+Fortunately, my system score remains stable. Relying on this, I haven’t faced any further repercussions.
+
+96
+00:08:47,765 --> 00:08:50,568
+What about him?
+
+97
+00:08:50,568 --> 00:08:55,941
+When he gazes through the bars at that unchanging sky, does he think of his once free and bright life?
+
+98
+00:08:55,941 --> 00:09:01,414
+The final instrument is now fully prepared. I lower my gaze to sweep a glance over it. Collecting my thoughts, I walk toward the execution chamber.
+
+99
+00:09:02,949 --> 00:09:06,486
+The surveillance camera’s red dot flickers faintly, rotating in time with my unhurried footsteps.
+
+100
+00:09:06,486 --> 00:09:12,093
+Once my credentials are verified, the door to the execution chamber slides silently apart.
+
+101
+00:09:13,728 --> 00:09:16,264
+Lucien sits on the cold, hard chair with one leg half-bent, gazing up in my direction with keen interest.
+
+102
+00:09:16,264 --> 00:09:18,500
+Heavy iron shackles bind his ankles, hanging through the gaps in the seat.
+
+103
+00:09:18,500 --> 00:09:21,937
+Perhaps having waited too long and grown a bit bored, most of his body now leans against the seat. The collar of his prison uniform is slightly open, displaying a sense of relaxation that seems somewhat out of place.
+
+104
+00:09:21,937 --> 00:09:24,340
+Lucien: You’re finally here.
+
+105
+00:09:24,340 --> 00:09:29,512
+Lucien: I was just worried you might have changed your mind and didn't want to meet me.
+
+106
+00:09:29,512 --> 00:09:31,548
+MC: It's my duty, of course I wouldn't hand it over to someone else.
+
+107
+00:09:31,548 --> 00:09:36,420
+Lucien: So, MC came to see me only because of work?
+
+108
+00:09:36,420 --> 00:09:38,523
+I ignore the familiarity in his tone and calmly proceed to draw the drug.
+
+109
+00:09:38,523 --> 00:09:41,593
+The vital-signs monitor clamped around his neck displays his real-time pulse. It’s now unexpectedly a few beats faster than when I first entered.
+
+110
+00:09:41,593 --> 00:09:43,128
+Could this person even be nervous?
+
+111
+00:09:43,128 --> 00:09:45,898
+Seeing my silence, those dark eyes shift to the injection in my hand, a flicker of curious interest flashing through them.
+
+112
+00:09:45,898 --> 00:09:54,307
+Lucien: So the memory-erasing execution is carried out through injection? How does it avoid neural damage, then?
+
+113
+00:09:54,307 --> 00:09:56,443
+MC: The injection contains nanobots that will act according to the program... Never mind.
+
+114
+00:09:56,443 --> 00:09:58,378
+MC: No matter how much I explain, you’ll forget it all soon anyway.
+
+115
+00:09:58,378 --> 00:09:59,914
+MC: Stay still. Disinfecting now.
+
+116
+00:09:59,914 --> 00:10:02,083
+The person before me sighs, a hint of innocence surfacing in the depths of his eyes.
+
+117
+00:10:02,083 --> 00:10:09,257
+Lucien: This might be my last moment. Can’t MC at least take a bit of our past into account?
+
+118
+00:10:10,726 --> 00:10:15,732
+His lips are paler than the prison garb. I press my lips together and then still reach for the alcohol-soaked cotton ball with tweezers.
+
+119
+00:10:15,732 --> 00:10:21,872
+MC: It’s only a memory purge. Why do you say it like it’s a death sentence?
+
+120
+00:10:21,872 --> 00:10:27,812
+Lucien: But a person's present is shaped by their past.
+
+121
+00:10:27,812 --> 00:10:35,687
+Lucien: To a certain extent, this is a psychological annihilation of one’s identity.
+
+122
+00:10:35,687 --> 00:10:41,995
+The alcohol spreads in a faint sheen across his neck. The pungent scent hits my nose, and I instinctively start to speak a little faster.
+
+123
+00:10:41,995 --> 00:10:47,401
+MC: The system has extracted the memory fragments most critical to you based on your past emotional fluctuations.
+
+124
+00:10:47,401 --> 00:10:54,943
+MC: After the execution, the prison will broadcast the approved segments daily. As for those that don't meet the standards, they'll be shown after modification.
+
+125
+00:10:54,943 --> 00:11:00,149
+MC: All in all, it won't affect your cognition... it's not as horrifying as you imagine.
+
+126
+00:11:00,149 --> 00:11:06,456
+I slowly press the needle tip against his neck. Lucien looks at me calmly; even the heart rate projected in the monitor hardly shows any changes.
+
+127
+00:11:06,456 --> 00:11:12,262
+I exhale softly, the hand pushing the syringe plunger trembling almost imperceptibly.
+
+128
+00:11:12,262 --> 00:11:18,303
+The next moment, Lucien’s hand suddenly covers the back of mine, his fingertips slipping unhurriedly between my fingers.
+
+129
+00:11:18,303 --> 00:11:20,238
+MC: ….!
+
+130
+00:11:20,238 --> 00:11:25,577
+The clear liquid is pushed into his neck bit by bit. Holding my breath, I can almost feel the warmth of his exhale brushing against my ear.
+
+131
+00:11:25,577 --> 00:11:28,748
+Lucien: I’ve taught you.
+
+132
+00:11:28,748 --> 00:11:37,157
+Lucien: Hesitation is the emotion most likely to lead to failure.
+
+133
+00:11:37,157 --> 00:11:40,795
+Along with his words, the final drop of the drug disappears from the syringe.
+
+134
+00:11:40,795 --> 00:11:46,835
+The drug takes effect faster than expected. Almost immediately, a faint weariness clouds those eyes that reflect my face like still water.
+
+135
+00:11:46,835 --> 00:11:51,540
+As if unable to bear the weight of his own head, Lucien’s neck tilts back against the chair, baring a fragile curve to the air.
+
+136
+00:11:51,540 --> 00:11:57,147
+I count down silently in my heart. Before I even reach five, his eyes slowly drift shut, and the hand entwined with mine falls away.
+
+137
+00:11:57,147 --> 00:12:03,320
+Amid the ticking of the instruments, I can faintly hear his breathing grow deeper. I slip free from Lucien’s palm, hovering momentarily before letting my hand gently stroke his hair.
+
+138
+00:12:03,320 --> 00:12:11,463
+Cold, soft... If the moonlight could be touched, it would probably feel like this.
+
+139
+00:12:11,463 --> 00:12:17,937
+I stoop a little, speaking in a quiet murmur.
+
+140
+00:12:17,937 --> 00:12:22,108
+MC: Thank you for your trouble, Mentor.
+
+141
+00:12:22,108 --> 00:12:27,481
+MC: But even if the experiment fails, I have a backup plan.
+
+142
+00:12:27,481 --> 00:12:37,659
+MC: This is the most precious lesson you’ve taught me.
+
+143
+00:12:37,926 --> 00:12:40,930
+While in prison, MC uses the regular “you” 你 (nǐ), but in the flashback, MC uses 您 (nín), the formal and respectful version of 你, to address Lucien. This is important as it carries nuance that becomes significant later~
+
+144
+00:12:42,698 --> 00:12:54,412
+??: “...In the year 2230 of the New Era, you enrolled in the School of Psychology and Cognitive Sciences, following the recommendation of the scoring system, with a minor in Sociology…”
+
+145
+00:12:54,412 --> 00:12:59,684
+??: “...During your first semester, you submitted a paper titled ‘The Role and Development of Psychometrics in Sociology’. The full text reads as follows...”
+
+146
+00:12:59,684 --> 00:13:04,723
+??: "...In your third year, under your advisor’s guidance, you participated in a symposium on How to Scientifically Quantify Standards for Emotional Auditing, and during the conference..."
+
+147
+00:13:04,723 --> 00:13:10,563
+A soft mechanical hum echoes through the room. Pale gray wall clearly displays scene after scene like frames from a long, lingering film.
+
+148
+00:13:10,563 --> 00:13:17,438
+A dark-haired young man appears on the projection. His eyes and brows still hint at youthful inexperience as he walks through the teaching building, yet his calm composure is already evident.
+
+149
+00:13:17,438 --> 00:13:21,676
+As I watch briefly, I prop my chin on my hand, then let my gaze fall back to Lucien.
+
+150
+00:13:21,676 --> 00:13:26,448
+It’s been a week since the memory erasure.
+
+151
+00:13:26,448 --> 00:13:31,821
+Every day, when it’s time for his projected education, he sits quietly on the edge of his bed like this, watching the fragments of his memories.
+
+152
+00:13:31,821 --> 00:13:38,161
+His expression resembles a sheet of untainted white paper—pure and earnest.
+
+153
+00:13:38,161 --> 00:13:44,435
+The data indicates that he has not shown any doubt or aversion toward the altered segments of the footage. Judging from this, the execution appears to be effective.
+
+154
+00:13:44,435 --> 00:13:50,141
+Lost in thought, I’m jotting down the situation on the electronic screen when I suddenly hear him utter a puzzled “Hm?”. I glance up and am momentarily caught off guard.
+
+155
+00:13:50,141 --> 00:13:55,748
+The memory fragment now playing is a scene from his workday, with the familiar consultation room bathed in warm-toned sunlight.
+
+156
+00:13:55,748 --> 00:14:01,955
+Lucien rests his chin on one hand, his expression focused as he looks at the wary-faced girl across from him.
+
+157
+00:14:01,955 --> 00:14:07,228
+…That’s the scene from the first time I sought him for counseling.
+
+158
+00:14:07,228 --> 00:14:12,133
+Could that afternoon actually be a profound memory for him, too? ...Was my case especially tricky?
+
+159
+00:14:12,133 --> 00:14:17,239
+A rustle of bedsheets brushes past my ear. Amid the shifting light and shadows, the person beside me turns his head to look at me.
+
+160
+00:14:17,239 --> 00:14:26,683
+Lucien: ...Miss Section Chief, what was our previous relationship?
+
+161
+00:14:26,683 --> 00:14:32,623
+It’s the first time he’s spoken since the memory erasure. I steady my inexplicably quickened heartbeat and look into those eyes.
+
+162
+00:14:32,623 --> 00:14:37,662
+MC: You used to be the psychology instructor at my college.
+
+163
+00:14:37,662 --> 00:14:42,434
+MC: There was a time when I struggled mentally, and I sought your guidance more than a few times.
+
+164
+00:14:42,434 --> 00:14:48,241
+Lucien: Even someone as rational as Miss Section Chief experienced a phase like that?
+
+165
+00:14:48,241 --> 00:14:51,878
+MC: Of course. A person’s stability naturally fluctuates.
+
+166
+00:14:51,878 --> 00:14:55,649
+MC: Back at the college, you also seemed rather…*
+
+167
+00:14:55,649 --> 00:15:02,190
+My voice trails off, and out of the corner of my eye, I see Lucien curiously moving closer to me.
+
+168
+00:15:02,190 --> 00:15:08,397
+Lucien: Also seemed rather what? Can you continue?
+
+169
+00:15:08,397 --> 00:15:17,507
+Lucien: In addition to the system's objective records, I also want to know what kind of person I am in your eyes.
+
+170
+00:15:17,507 --> 00:15:22,146
+I observe him with keen intrigue and deliberately furrow my brows.
+
+171
+00:15:22,146 --> 00:15:26,384
+MC: But this isn’t within the scope of my work.
+
+172
+00:15:26,384 --> 00:15:33,659
+He blinks, seemingly not expecting me to respond this way. Yet in the next instant, something seems to occur to him, and the corners of his eyes curve slightly.
+
+173
+00:15:33,659 --> 00:15:44,104
+Lucien: Since Miss Section Chief appears in my memory fragments, you must’ve been my favorite student.
+
+174
+00:15:44,104 --> 00:15:51,145
+Lucien: For the sake of our past bond... is there really no room for a small favor?
+
+175
+00:15:51,145 --> 00:15:56,251
+His tone softens a little, and there’s a trace of a familiar smile in his voice.
+
+176
+00:15:56,251 --> 00:16:04,394
+The memories of the past suddenly flood my heart. Though this maneuvering** feels more clumsy compared to before, it has now become a bit more intriguing.
+
+177
+00:16:04,394 --> 00:16:10,267
+I can’t help but curl the corners of my lips upward, and under his expectant gaze, I steal a glance at the time.
+
+178
+00:16:10,267 --> 00:16:14,138
+MC: It’s getting a bit late now.
+
+179
+00:16:14,138 --> 00:16:20,379
+MC: But I promise you. We’ll continue tomorrow.
+
+180
+00:16:20,679 --> 00:16:28,822
+Since that day, I began 'working overtime' to 'accompany' Lucien outside of regular work hours.
+
+181
+00:16:28,822 --> 00:16:38,299
+At first, it was just an occasional arrangement. But after one incident in which I had to respond to his sudden dizziness, it gradually became a fixed part of my schedule.
+
+182
+00:16:38,299 --> 00:16:47,109
+The system judges that he is having an adverse reaction to the drug, leading to several physical indicators dropping below normal. As a result, his recovery period is extended, and nutritional injections are arranged.
+
+183
+00:16:47,109 --> 00:16:54,684
+So, in the time I spend with him each day, a caregiving routine is added. But most of the time, it’s him observing my procedures while asking his questions.
+
+184
+00:16:54,684 --> 00:17:02,059
+…I have to admit, this man’s curiosity is overwhelmingly voracious.
+
+185
+00:17:02,059 --> 00:17:07,065
+Lucien: How do I know my score from each system update?
+
+186
+00:17:07,065 --> 00:17:15,341
+MC: The monitoring hall’s equipment displays them publicly. You can also ask the management staff; we can see every prisoner’s score through the system.
+
+187
+00:17:15,341 --> 00:17:22,215
+Lucien: My heart seems to beat faster every time I receive care.
+
+188
+00:17:22,215 --> 00:17:28,923
+MC: That’s the nutritional injection taking effect… Strange, your memory of medical knowledge shouldn’t have been affected, right?
+
+189
+00:17:28,923 --> 00:17:33,395
+Lucien: How much longer is my recovery period?
+
+190
+00:17:33,395 --> 00:17:37,066
+MC: I’m not sure, let’s wait until your physical indicators return to normal.
+
+191
+00:17:37,066 --> 00:17:48,645
+Lucien: If I never recover… will MC keep visiting me every day like this?
+
+192
+00:17:48,645 --> 00:17:55,053
+Adjusting the syringe, my hands still mid-motion, I shoot a glance at him.
+
+193
+00:17:55,053 --> 00:17:59,758
+MC: Theoretically, yes.
+
+194
+00:17:59,758 --> 00:18:04,597
+MC: But I can see from the data that you’re recovering quite smoothly.
+
+195
+00:18:04,597 --> 00:18:10,604
+As if he fails to receive the cherished gift he has set his heart on, his eyes brim with plainly visible disappointment.
+
+196
+00:18:10,604 --> 00:18:16,210
+I find this version of him somewhat amusing, but as I turn, I hear his contemplative voice behind me.
+
+197
+00:18:16,210 --> 00:18:23,218
+Lucien: But do you really think the system can’t be deceived by data, MC?
+
+198
+00:18:23,218 --> 00:18:33,830
+Lucien: It evaluates efficiently yet never delves into the causes. If someone wanted to exploit it… it wouldn’t be difficult, would it?
+
+199
+00:18:33,830 --> 00:18:36,967
+MC: …!
+
+200
+00:18:36,967 --> 00:18:42,907
+His voice carries a note of skepticism as if he’s simply asking an innocent question. But I keenly pick up on the faint arrogance in his tone.
+
+201
+00:18:42,907 --> 00:18:48,447
+I set down the syringe and slowly turn around.
+
+202
+00:18:48,447 --> 00:18:53,452
+MC: ...Why do you think that?
+
+203
+00:18:53,452 --> 00:19:00,494
+Lucien: Because… it seems I’ve already succeeded in tricking it.
+
+204
+00:19:00,494 --> 00:19:07,935
+Lucien: My adverse reaction to the drug, that’s the system’s misjudgment.
+
+205
+00:19:07,935 --> 00:19:13,575
+As I stare at him in bewilderment and surprise, he narrows his eyes, a sly glint flashing in them.
+
+206
+00:19:13,575 --> 00:19:24,788
+Lucien: I haven’t actually felt any discomfort since the execution, just some habitual insomnia. So during the day, I occasionally feel fatigued.
+
+207
+00:19:24,788 --> 00:19:31,762
+Lucien: The other day, an interesting thought suddenly came to me while recalling my past medical knowledge.
+
+208
+00:19:31,762 --> 00:19:39,905
+Lucien: Symptoms like 'fatigue' and 'mental lethargy' are actually among the adverse effects of the drug.
+
+209
+00:19:39,905 --> 00:19:49,583
+Lucien: If I deliberately exhibit more signs of a drug reaction, how would the system judge that? …That idea suddenly popped into my head.
+
+210
+00:19:49,583 --> 00:19:55,523
+He raises a finger, tapping lightly at his temple.
+
+211
+00:19:55,523 --> 00:20:10,106
+Lucien: So I tried feeding a few controlled and precise cues to the Iris device, like intermittent accelerated breathing, and...
+
+212
+00:20:10,106 --> 00:20:15,712
+MC: ...Sudden dizziness.
+
+213
+00:20:15,712 --> 00:20:22,286
+The image of him from some time ago—eyes half-lidded as he leans against the headboard—crosses my mind. My palm tightens slightly.
+
+214
+00:20:22,286 --> 00:20:27,459
+Lucien meets my gaze without affirmation or denial, a clear smile showing in his eyes.
+
+215
+00:20:27,459 --> 00:20:37,570
+Lucien: You see, every piece of data it holds is actually precise.
+
+216
+00:20:37,570 --> 00:20:45,279
+Lucien: Yet even so, it still arrives at an erroneous judgment.
+
+217
+00:20:45,279 --> 00:20:51,820
+His dark eyes twinkle, like a child who has found the answer through his own hard work, laced with pure joy and a faint sense of pride.
+
+218
+00:20:51,820 --> 00:20:56,692
+I stare intently at the curve of Lucien’s lips, a slight chill creeping vaguely up my spine.
+
+219
+00:20:56,692 --> 00:21:02,832
+Even though his memories were clearly erased, and everything he receives is filtered by the system, how come a thought like that still born?
+
+220
+00:21:02,832 --> 00:21:07,838
+Is he playing a prank? Or… were his previous memories not completely wiped?
+
+221
+00:21:07,838 --> 00:21:14,346
+I try to find an inkling of jest in his refined brows and eyes, but my heartbeat accelerates uncontrollably.
+
+222
+00:21:14,346 --> 00:21:20,553
+There seems to be some kind of unexplained presence, and an unexpected development has emerged.
+
+223
+00:21:20,553 --> 00:21:24,657
+Two notification boxes suddenly pop up in my lens display, severing the tangled web of my thoughts.
+
+224
+00:21:24,657 --> 00:21:30,030
+System: Ten minutes remain until this month's system score update. Please proceed to the monitoring hall.
+
+225
+00:21:30,030 --> 00:21:37,305
+System: If no relevant action is taken, the system will automatically assume control and reclaim the data.
+
+226
+00:21:37,305 --> 00:21:43,512
+My gaze flickers slightly as I slowly begin to speak.
+
+227
+00:21:43,512 --> 00:21:47,316
+MC: …Alright, story time is over.
+
+228
+00:21:47,316 --> 00:21:51,588
+MC: You should prepare yourself to undergo a new round of scoring by the system.
+
+229
+00:21:51,588 --> 00:21:57,795
+Lucien: You think what I just said was nothing but fantasy?
+
+230
+00:21:57,795 --> 00:22:02,534
+MC: That would be the best-case scenario. Otherwise, you should start worrying about your own safety.
+
+231
+00:22:02,534 --> 00:22:08,407
+The air suddenly falls silent. Our eyes lock, as if we are using our gazes as blades, confronting each other invisibly.
+
+232
+00:22:08,407 --> 00:22:13,346
+MC: If you’ve been harboring this kind of dangerous mindset all along, it will definitely affect the evaluation.
+
+233
+00:22:13,346 --> 00:22:19,052
+MC: Should your score continue to fall short, your memory will be erased again.
+
+234
+00:22:19,052 --> 00:22:25,526
+MC: Of course, you can demonstrate it right in front of me. Show me how you’d outsmart the system’s evaluation… if you’re really as clever as you say.
+
+235
+00:22:25,526 --> 00:22:29,397
+Like a butterfly’s wings flutter, he blinks slowly and softly.
+
+236
+00:22:29,397 --> 00:22:32,134
+Lucien: Sure.
+
+237
+00:22:32,134 --> 00:22:37,907
+Lucien: But if I act as I please, wouldn't that get you in trouble?
+
+238
+00:22:37,907 --> 00:22:41,711
+He speaks in quite a good mood, tilting his chin toward the camera in the corner.
+
+239
+00:22:41,711 --> 00:22:48,319
+MC: Don’t worry. As the medical section chief, I have the authority to remove certain information that’s unfavorable to me.
+
+240
+00:22:48,319 --> 00:22:52,724
+MC: But if you’re deliberately wasting my time…
+
+241
+00:22:52,724 --> 00:22:58,631
+I ease down onto the edge of the bed. Leaning in close to Lucien’s ear, I lower my voice to a whisper.
+
+242
+00:22:58,631 --> 00:23:06,273
+MC: The next time I punish you, I won't be so gentle.
+
+243
+00:23:07,140 --> 00:23:10,644
+*: I translated the word as ‘seemed’ for brevity and naturalness, but 表现 (biǎo xiàn— literally “manifested conduct”) conveys more nuance. It refers to the way one’s actions are outwardly displayed or expressed, how his observable actions are like. (1/2)
+
+244
+00:23:10,644 --> 00:23:13,481
+Combined with what he said afterward, his curiosity here isn’t merely about what he seemed like, but how she perceived him. (2/2)
+
+245
+00:23:13,481 --> 00:23:16,918
+**: In this context, "maneuvering" refers to the act of carefully guiding or manipulating someone or something in order to achieve a goal rather than the usual ‘move carefully’. (1/2)
+
+246
+00:23:16,918 --> 00:23:20,889
+"斡旋" (wò xuán) is often translated as "to mediate" or "to negotiate," but here it carries the nuance of subtle psychological or emotional maneuvering that she employs to achieve her objective~ (2/2)
+
+247
+00:23:21,523 --> 00:23:31,101
+I draw myself upright and lean back with unflappable composure, observing him from the side.
+
+248
+00:23:31,101 --> 00:23:36,040
+Lucien, however, doesn’t show a hint of surprise or hesitation. Instead, he calmly rolls up his cuffs, revealing a section of his slender, cold-white forearm.
+
+249
+00:23:36,040 --> 00:23:40,378
+He then takes a syringe from the nearby equipment cart, adjusts it somewhat unskilfully, and injects half the dose of nutritional solution into himself.
+
+250
+00:23:40,378 --> 00:23:44,416
+A faint sheen of sweat seeps from his neck—a common reaction to high-concentration nutritional fluid entering the body.
+
+251
+00:23:44,416 --> 00:23:47,453
+I frown, despite myself, I can’t resist speaking:
+
+252
+00:23:47,453 --> 00:23:51,023
+MC: The nutritional injection will affect the cardiac rhythm, so it needs to be administered slowly.
+
+253
+00:23:51,023 --> 00:23:57,931
+Lucien: I know. But there’s no time to let it take effect gradually now.
+
+254
+00:23:57,931 --> 00:24:06,574
+Lucien: Before the system updates the score, I need to calibrate my heart rate to the "standard" rate to pass the examination.
+
+255
+00:24:06,574 --> 00:24:10,278
+The countdown’s red glare reflects in his eyes, adding a touch of unpredictability.
+
+256
+00:24:10,278 --> 00:24:17,353
+Lucien: No need to worry... I also cherish this body you’ve so earnestly tended to, MC.
+
+257
+00:24:17,353 --> 00:24:26,664
+Lucien: 1.5 milliliters is exactly the precise dose to achieve the ideal condition without causing excessive burden on my body.
+
+258
+00:24:26,664 --> 00:24:30,969
+His tone is breezy and unquestionably assured, as if everything is under his control, compelling others to intuitively want to believe him.
+
+259
+00:24:30,969 --> 00:24:34,740
+This familiar feeling gradually overlaps with my memory, slightly startling me.
+
+260
+00:24:34,740 --> 00:24:38,110
+The seconds on the digital clock silently tick in the corner of our vision, then snap abruptly to the full hour.
+
+261
+00:24:38,110 --> 00:24:42,615
+Almost the next second, a prompt box indicating a successful score update pops up in my lens' view.
+
+262
+00:24:42,615 --> 00:24:47,754
+I stifle my rapidly beating heart and move my fingertips. Suddenly, the screen flickers, and a photo of Lucien appears with a flashing bright number — '42'.
+
+263
+00:24:47,754 --> 00:24:51,192
+…This is indeed a score within the safe range.
+
+264
+00:24:51,192 --> 00:24:55,196
+My eyes widen, my mind even goes blank for a fleeting moment.
+
+265
+00:24:55,196 --> 00:24:59,768
+I can't believe it. He really fooled the system's review... How did he do it? Did he simply rely on the injection to change a few physical indicators?
+
+266
+00:24:59,768 --> 00:25:03,906
+How is that possible... If it were that simple, wouldn't all criminals who receive the nutritional injections be able to get out of prison?
+
+267
+00:25:03,906 --> 00:25:13,083
+Lucien: Because when the system evaluates a human's physical or even psychological condition, it simultaneously examines multiple indicators.
+
+268
+00:25:13,083 --> 00:25:19,590
+Lucien's voice rises beside me as if he had heard the question in my heart, as though he’s leisurely explaining a problem set.
+
+269
+00:25:19,590 --> 00:25:28,768
+Lucien: For example, to determine whether someone agrees with the system, it will retrieve their heart rate, blood pressure, and respiratory rate when exposed to related information.
+
+270
+00:25:28,768 --> 00:25:34,341
+Lucien: Of course, a single fluctuation can't fool it.
+
+271
+00:25:34,341 --> 00:25:46,354
+Lucien: Fortunately, I’ve been receiving nutritional injection care during this period. While watching videos, my heart rate and blood pressure were both elevated, naturally helping to avoid the system judging any feelings of disgust.
+
+272
+00:25:46,354 --> 00:25:52,494
+Lucien: Then, coupled with some seemingly genuine microexpressions...
+
+273
+00:25:52,494 --> 00:25:57,800
+He casually flicks the syringe's needle and gives me a calm, slightly confused smile.
+
+274
+00:25:57,800 --> 00:26:00,437
+...This expression is not unfamiliar.
+
+275
+00:26:00,437 --> 00:26:03,307
+Every day, when watching his memory footage, Lucien always shows this gentle, harmless expression.
+
+276
+00:26:03,307 --> 00:26:07,378
+MC: You're the first person I've seen who could ‘relapse into old patterns’ even after memory erasure and system re-education.
+
+277
+00:26:07,378 --> 00:26:12,250
+MC: You really were born for prison.
+
+278
+00:26:12,250 --> 00:26:17,323
+I control my slightly trembling breath, my gaze lingering on his face for a long time, my tone tinged with mockery.
+
+279
+00:26:17,323 --> 00:26:21,928
+Lucien, however, gently shakes his head, as if somewhat disagreeing.
+
+280
+00:26:21,928 --> 00:26:29,103
+Lucien: I originally thought the same. But just now, a new conjecture suddenly occurred to me.
+
+281
+00:26:29,103 --> 00:26:35,910
+Lucien: Since I can trick the system now, perhaps I could’ve done the same thing back then.
+
+282
+00:26:35,910 --> 00:26:38,780
+MC: ...What are you implying?
+
+283
+00:26:38,780 --> 00:26:45,087
+Lucien: I mean, what if being imprisoned was the result of my own choice?
+
+284
+00:26:45,087 --> 00:26:48,792
+He casts down his gaze and begins to speak unhurriedly.
+
+285
+00:26:48,792 --> 00:26:57,034
+Lucien: Suppose this counterintuitive conclusion holds, then there must be something here that I want to gain or achieve.
+
+286
+00:26:57,034 --> 00:27:03,108
+Lucien: But what is it that makes this prison special compared to the outside world?
+
+287
+00:27:03,108 --> 00:27:07,313
+His voice pauses, as if he's deducing something, yet also as if he's talking to himself.
+
+288
+00:27:07,313 --> 00:27:14,254
+Lucien: This place is on an island, its environment is closed off and highly dependent on the system.
+
+289
+00:27:14,254 --> 00:27:22,563
+Lucien: Dietary plans, medication dosages... the system makes real-time adjustments based on each prisoner's condition.
+
+290
+00:27:22,563 --> 00:27:28,937
+Lucien: So there's no need to wait for the bi-monthly scoring to know how it responds
+
+291
+00:27:28,937 --> 00:27:37,080
+Lucien: Looking at it this way, it's the most perfect place to test the system's vulnerabilities.
+
+292
+00:27:37,080 --> 00:27:40,350
+MC: …..
+
+293
+00:27:40,350 --> 00:27:45,456
+His eyes glimmer faintly. I meet his gaze for a beat, and a 'pfft' slips out before I can stop it.
+
+294
+00:27:45,456 --> 00:27:49,694
+MC: Sounds interesting, but this experiment you describe seems to have only the setting and a test subject.
+
+295
+00:27:49,694 --> 00:27:54,366
+MC: For a complete experiment, isn't something missing? Like someone who runs through the entire process, an observer?
+
+296
+00:27:54,366 --> 00:28:00,573
+The chains clink softly as Lucien leans slightly toward me, my doubtful expression reflected in his eyes.
+
+297
+00:28:00,573 --> 00:28:05,512
+His low voice seems probing, yet there's also some sort of genuine admiration in it.
+
+298
+00:28:05,512 --> 00:28:11,252
+Lucien: That's something I'll need you to confirm.
+
+299
+00:28:11,252 --> 00:28:20,529
+Lucien: Estimating from the time data in my memory projection, you entered the prison system exactly six months before I was sentenced.
+
+300
+00:28:20,529 --> 00:28:29,639
+Lucien: Regarding timing or identity, you seem like someone tailor-made for this experiment.
+
+301
+00:28:29,639 --> 00:28:33,444
+MC: …That’s enough.
+
+302
+00:28:33,444 --> 00:28:36,581
+MC: You're even using coincidences to piece together your fantasies now?
+
+303
+00:28:36,581 --> 00:28:39,617
+Lucien: Of course there are coincidences in this world.
+
+304
+00:28:39,617 --> 00:28:45,524
+Lucien: But when they happen one after another, that results from a guiding push.
+
+305
+00:28:45,524 --> 00:28:52,032
+His fingertips brush across my face, carrying a warmth so faint it’s almost not there, like the rising steam from a teacup that afternoon. His softened voice seems to hold a subtle grievance.
+
+306
+00:28:52,032 --> 00:28:57,871
+Lucien: I understand that people need to leave themselves some room to maneuver.
+
+307
+00:28:57,871 --> 00:29:05,814
+Lucien: But I’ve already proven the system’s flaws; this experiment can end here.
+
+308
+00:29:05,814 --> 00:29:10,019
+Lucien: MC, can’t you be honest with me now?
+
+309
+00:29:10,019 --> 00:29:14,691
+Though he’s asking a question, there’s unmistakable certainty in his expression. It’s as if he already knows the answer before I open my mouth.
+
+310
+00:29:14,691 --> 00:29:18,862
+Just like that sun-drenched afternoon, it makes me momentarily dazed.
+
+311
+00:29:20,063 --> 00:29:22,967
+.....
+
+312
+00:29:22,967 --> 00:29:27,672
+Lucien: Then do you genuinely hold unwavering faith in the system’s judgment?
+
+313
+00:29:27,672 --> 00:29:33,645
+I met the gaze of the man on the sofa. For a brief moment, we looked into each other’s eyes and saw a similar, unspoken danger that we both understood.
+
+314
+00:29:33,645 --> 00:29:37,783
+Neither of us knew who curved their lips first, but we both chuckled at the same time.
+
+315
+00:29:37,783 --> 00:29:42,289
+I propped my chin up with one hand and spoke with great interest.
+
+316
+00:29:42,289 --> 00:29:44,758
+MC: My mentor and I are truly in sync.
+
+317
+00:29:44,758 --> 00:29:50,031
+MC: Earlier, we were talking about employment… So what advice are you going to give me?*
+
+318
+00:29:50,031 --> 00:29:53,435
+Lucien: Clever girl.
+
+319
+00:29:53,435 --> 00:29:58,173
+He crinkled his eyes into crescents and tapped on “prison doctor” in my employment recommendation.
+
+320
+00:29:58,173 --> 00:30:05,815
+Lucien: Though the prison is a closed environment, it’s an ideal place to conduct experiments and verify certain hypotheses of ours.
+
+321
+00:30:05,815 --> 00:30:11,789
+Lucien: Perhaps, would MC be willing to enter the prison system early?
+
+322
+00:30:11,789 --> 00:30:14,592
+MC: Are you trying to gain certain conveniences through me?
+
+323
+00:30:14,592 --> 00:30:21,033
+Lucien: No, you only need to be a witness.
+
+324
+00:30:21,033 --> 00:30:24,303
+My gaze fell on his refined, handsome face as I pondered with interest.
+
+325
+00:30:24,303 --> 00:30:28,508
+It really does sound intriguing. Where I work doesn’t make much difference to me anyway.
+
+326
+00:30:28,508 --> 00:30:33,146
+Since that’s the case, why not work with someone of my own ‘kind’ to uncover the system’s flaws?
+
+327
+00:30:33,146 --> 00:30:37,051
+If it fails... there's no real danger.
+
+328
+00:30:37,051 --> 00:30:40,521
+I can keep this secret to myself, tuck my tail away, and climb upward obediently within the existing system.
+
+329
+00:30:40,521 --> 00:30:47,529
+And while I’m at it, I can take good care of my poor mentor— after all, he’s about to spend the rest of his life helplessly in a territory under my control.
+
+330
+00:30:47,529 --> 00:30:51,133
+But if his conclusion turns out to be correct—
+
+331
+00:30:53,069 --> 00:30:55,271
+I curve the corners of my lips into a smile and lean forward to take the unspent syringe from his hand.
+
+332
+00:30:55,271 --> 00:30:58,141
+MC: I was worried that after the memory erasure, you'd forget your original purpose and spend the rest of your life here, completely unaware.
+
+333
+00:30:58,141 --> 00:31:00,310
+MC: Fortunately, the outcome of this experiment turned out just as you predicted, Mentor Xu.
+
+334
+00:31:00,310 --> 00:31:02,546
+A faint tremor travels up from beneath my fingertips as Lucien seems to let out a few low chuckles.
+
+335
+00:31:02,546 --> 00:31:05,116
+His pounding heartbeat, carried on the scorching heat of his body, lays this intricate deception bare before me.
+
+336
+00:31:05,116 --> 00:31:08,186
+Lucien: So that’s what MC is thinking.
+
+337
+00:31:08,186 --> 00:31:14,860
+Lucien: I thought that if I failed, you'd be more than happy to keep me imprisoned under your watch forever.
+
+338
+00:31:14,860 --> 00:31:16,729
+MC: Am I really that cunning in my mentor's eyes?
+
+339
+00:31:16,729 --> 00:31:22,502
+Lucien: After all, a clever girl would never leave herself with only one option.
+
+340
+00:31:22,502 --> 00:31:25,706
+I let out a light laugh, steadying my heartbeat, which had long been racing with excitement, and projected the internal data from my lens into the air.
+
+341
+00:31:25,706 --> 00:31:28,509
+A vast array of criminal data and files shimmers before our eyes—a treasure trove that would dazzle any researcher.
+
+342
+00:31:28,509 --> 00:31:30,678
+Resting my chin on Lucien’s shoulder, I raise my voice with a dash of boast.
+
+343
+00:31:30,678 --> 00:31:33,381
+MC: I've already screened the profiles of these criminals. Hmm... twenty-eight of them have backgrounds related to medicine.
+
+344
+00:31:33,381 --> 00:31:36,151
+MC: What if we select half of them and give them subtle pointers about your experimental approach to trick the system?
+
+345
+00:31:36,151 --> 00:31:38,053
+MC: Given their foundational knowledge, they’re likely to catch on fast.
+
+346
+00:31:38,053 --> 00:31:40,122
+I speak with ardor and hear him chuckle.
+
+347
+00:31:40,122 --> 00:31:50,534
+Lucien: I think, it would be better to choose people who don’t have a medical background but do have a rebellious mindset toward the system as the control group.
+
+348
+00:31:50,534 --> 00:31:57,676
+Lucien: All in all, aside from skill, the courage to question is even more important.
+
+349
+00:31:59,110 --> 00:32:02,047
+MC: Okay, I like this design~
+
+350
+00:32:02,047 --> 00:32:06,085
+MC: Then we can also flag those whose stance toward the system is unclear and gradually shift their position.
+
+351
+00:32:06,085 --> 00:32:10,290
+MC: Only with enough subjects can our experiment keep going for a long time...
+
+352
+00:32:10,290 --> 00:32:16,630
+Lucien strokes my head approvingly, and I pull on the collar around his neck with a smile.
+
+353
+00:32:16,630 --> 00:32:20,268
+The hazy darkness muffles the whispers in the shadows and conceals the hidden ambitions and secrets.
+
+354
+00:32:20,268 --> 00:32:26,675
+From now on, this prison is a paradise that belongs to us.
+
+355
+00:32:26,675 --> 00:32:36,820
+Lucien: Then, let the experiment begin.
+
+356
+00:32:36,820 --> 00:32:44,061
+If you're wondering whether the collar MC pulls on refers to clothing, it's not. The term "颈环" (jǐng huán) specifically refers to a ring-like device worn around the neck. Sth sth XM giving her approval as mentor but mc pulling on his collar as an act of control can be read as symbolising how their power imbalance (Mentor-Student, Prisoner-Executioner) somewhat balances itself ig LOL.
+
+357
+00:32:44,061 --> 00:32:52,638
+*: Remember what I mentioned in the previous note about MC using the formal "you" (您) earlier in the flashback? In part 4 of flashback, she shifts to the informal "你" (nǐ), and that shift is intentional as it marks a turning point in their interaction (1/2)
+
+358
+00:32:52,638 --> 00:33:07,521
+By switching to "你," MC is effectively dropping the formality. She’s no longer addressing Lucien with the distance and deference of a mentor-student relationship. Instead, she speaks to him as an equal, or at least as someone she’s willing to engage with more boldly, directly, and on more intimate terms. (2/2)
+
+359
+00:33:07,521 --> 00:33:20,303
+I think... that’s all feel free to drop by my comment if you want to read my afterwords (though it’s mostly rambles *kicked*)
