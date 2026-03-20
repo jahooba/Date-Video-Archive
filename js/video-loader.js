@@ -6,10 +6,15 @@ function loadVideoArchive() {
         .then(data => {
             videoArchive = data;
             renderVideoList(data);
-        });
+        })
+        .catch(err => console.error(err));
 }
 
 function playVideo(video) {
-    loadYouTubeVideo(video["embed-link"]);
+    document.getElementById('playerWrap').classList.remove('hidden');
+
+    loadYouTubeVideo(video["video-id"]);
     loadSubtitles(video["subs-location"]);
 }
+
+document.addEventListener("DOMContentLoaded", loadVideoArchive);

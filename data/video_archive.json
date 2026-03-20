@@ -1,14 +1,12 @@
 [
-    {
-        "date-title": "Because of Love MQ",
-        "yt-link": "https://www.youtube.com/watch?v=N1Gowi2WbIg",
-        "embed-link": "https://www.youtube.com/embed/N1Gowi2WbIg?enablejsapi=1&playsinline=1",
-        "subs-location": "data/subs/Because of Love MQ.srt"
-    },
-    {
-        "date-title": "Molding Cuteness Date",
-        "yt-link": "https://www.youtube.com/watch?v=kSPwJUhTMuk",
-        "embed-link": "https://www.youtube.com/embed/kSPwJUhTMuk?enablejsapi=1&playsinline=1",
-        "subs-location": "data/subs/Molding Cuteness Date.srt"
-    }
+  {
+    "date-title": "Because of Love MQ",
+    "video-id": "N1Gowi2WbIg",
+    "subs-location": "data/subs/Because of Love MQ.srt"
+  },
+  {
+    "date-title": "Molding Cuteness Date",
+    "video-id": "kSPwJUhTMuk",
+    "subs-location": "data/subs/Molding Cuteness Date.srt"
+  }
 ]
